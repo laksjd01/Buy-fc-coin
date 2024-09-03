@@ -33,7 +33,7 @@
                 <input type="button" value="Send" name="send">
                 <input type="reset">
                 <input type="submit" value="Pay">
-                <input type="image" src="images/Button2.png">
+                <input type="image" src="Button2.png">
                 
                 </td>
                 
