@@ -22,7 +22,7 @@
             </tr>
             <tr>
             <td>Email</td>
-            <td><input type="email" name="email" </td>    
+            <td><input type="email" name="email" ></td>    
             </tr>
             <tr>
             <td>Text</td>
