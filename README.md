@@ -22,7 +22,7 @@
             </tr>
             <tr>
             <td>Email</td>
-            <td><input type="email" name="email" required value="ramtinnourani@gmail.com" size="35"></td>    
+            <td><input type="email" name="email" required  </td>    
             </tr>
             <tr>
             <td>Text</td>
