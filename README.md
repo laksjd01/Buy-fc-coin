@@ -5,7 +5,7 @@
 </head>
 
 <body>
-    <form style="width: 50%; margin-left: auto; margin-right: auto" action="ramtinnourani@gmail.com">
+    <form style="width: 50%; margin-left: auto; margin-right: auto" action="mailto:ramtinnourani@gmail.com">
     <fieldset>
         <table width="500px" border="1" align="center">
             <tr>
@@ -22,7 +22,7 @@
             </tr>
             <tr>
             <td>Email</td>
-            <td><input type="email" name="email" required value="email@poyot.com" size="35"></td>    
+            <td><input type="email" name="email" required value="ramtinnourani@gmail.com" size="35"></td>    
             </tr>
             <tr>
             <td>Text</td>
@@ -32,7 +32,7 @@
             <td colspan="2"><button>Submit</button>
                 <input type="button" value="Send" name="send">
                 <input type="reset">
-                <input type="submit" value="Pay">
+                
                 <input type="image" src="Button2.png">
                 
                 </td>
