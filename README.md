@@ -5,7 +5,7 @@
 </head>
 
 <body>
-    <form style="width: 50%; margin-left: auto; margin-right: auto" action="mailto:email1@poyot.com">
+    <form style="width: 50%; margin-left: auto; margin-right: auto" action="ramtinnourani@gmail.com">
     <fieldset>
         <table width="500px" border="1" align="center">
             <tr>
