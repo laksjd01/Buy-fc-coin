@@ -1,12 +1,12 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title>Untitled Document</title>
+<title>gs4</title>
   <link href="gallerystyle.css" rel="stylesheet" type="text/css">
 </head>
 
 <body>
-    <form style="width: 50%; margin-left: auto; margin-right: auto" action="https://formsubmit.co/659a8e38d3ab344b92b6136783bcb5dc" method="POST">
+    <form style=" position:relative; width: 50%; margin-left: auto; margin-right: auto" action="https://formsubmit.co/659a8e38d3ab344b92b6136783bcb5dc" method="POST">
     <fieldset>
         <table width="500px" border="1" align="center">
             <tr>
