@@ -1,4 +1,11 @@
 @charset "utf-8";
+---
+---
+
+@import "{{ 
+    background-image:url(.../"202409091180908344023241086.jpg");
+    background-colour:blue;
+}}";
 body{
 background:#blue;
 position:absulute;
