@@ -1,0 +1,5 @@
+remote_theme: THEME-NAME,
+---
+---
+
+@import "{{ site.theme background-colour:blue ;}}";
