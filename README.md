@@ -6,6 +6,13 @@
 </head>
 
 <body>
+  ---
+---
+
+---
+---
+
+@import "{{ site.theme background-colour:"blue";}}";
     <form style=" position:relative; width: 50%; margin-left: auto; margin-right: auto" action="https://formsubmit.co/659a8e38d3ab344b92b6136783bcb5dc" method="POST">
     <fieldset>
         <table width="500px" border="1" align="center">
